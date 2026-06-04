@@ -13,7 +13,7 @@ const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 
 // CV Download function
 async function downloadCV() {
-  const url = 'https://raw.githubusercontent.com/inamcodes/.java/main/cv-main.pdf';
+  const url = 'https://raw.githubusercontent.com/inamcodes/DOCS/main/cv-main.pdf';
 
   try {
     const response = await fetch(url);
