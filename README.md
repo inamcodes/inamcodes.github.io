@@ -2,13 +2,14 @@
 
 A personal portfolio website showcasing my skills, projects, experience, and a built-in AI chatbot.
 
-🌐 **Live:** [inam.com](https://inam.com)
+🌐 **Live:** [Click to open Portfolio](https://inamcodes.github.io)
 
 ---
 
 ## Preview
 
-> Screenshot coming soon
+<img width="1347" height="620" alt="image" src="https://github.com/user-attachments/assets/4cd17eff-0868-498e-9efa-04caaa850668" />
+
 
 ---
 
@@ -38,13 +39,6 @@ git clone https://github.com/inamcodes/portfolio
 cd portfolio
 # just open index.html in your browser
 ```
-
----
-
-## Credits
-
-This portfolio is based on the template by **Sohayel Mahmud**.
-Original: [sohayelmahmud.github.io](https://sohayelmahmud.github.io)
 
 ---
 
