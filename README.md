@@ -42,6 +42,8 @@ cd portfolio
 ```
 
 ---
+## Profile Views Count
+![](https://komarev.com/ghpvc/?username=inamcodes&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true)
 
 ## Connect
 
