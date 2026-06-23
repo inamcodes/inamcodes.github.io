@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my skills, projects, experience, and a built-in AI chatbot.
 
-🌐 **Live:** [Click to open Portfolio](https://inamcodes.github.io)
+🌐 **Live:** [Click to Ping Portfolio](https://inamcodes.github.io)
 
 ---
 
