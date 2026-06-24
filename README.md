@@ -10,8 +10,6 @@ A personal portfolio website showcasing my skills, projects, experience, and a b
 
 <img width="1366" height="1155" alt="preview" src="https://github.com/user-attachments/assets/a905a679-049f-4af9-b743-2bc166959813" />
 
-
-
 ---
 
 ## Sections
